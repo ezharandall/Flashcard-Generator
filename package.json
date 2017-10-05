@@ -1,0 +1,28 @@
+{
+  "name": "Flashcard-Generator",
+  "version": "1.0.0",
+  "description": "A flashcard game.",
+  "main": "CLI.js",
+  "dependencies": {
+    "inquirer": "^3.0.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https:////github.com/ezharandall/Flashcard-Generator"
+  },
+  "keywords": [
+    "basicCard",
+    "clozeCard"
+
+  ],
+  "author": "Ezha Randall",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ezharandall/Flashcard-Generator"
+  },
+  "homepage": "https://github.com/ezharandall/Flashcard-Generator#readme"
+}
