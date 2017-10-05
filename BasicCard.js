@@ -227,7 +227,7 @@ function basicFunction() {
 
     } else {
 
-        console.log("This is not a valid command! Please try again.");
+        console.log("Invalid command! Please try again.");
     };
 };
 
