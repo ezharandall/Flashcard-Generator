@@ -4,13 +4,13 @@ var fs = require('fs');
 
 if (input1 === "basic") {
 
-	var basic = require("./Basic");
+	var basic = require("./BasicCard");
 	basic();
 
 
 } else if (input1 === "cloze") {
 
-	var cloze = require("./Cloze");
+	var cloze = require("./ClozeCard");
 	cloze();
 
 } else {
