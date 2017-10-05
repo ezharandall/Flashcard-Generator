@@ -1,4 +1,4 @@
-// var input1 = process.argv[2].toLowerCase();
+var input1 = process.argv[2]();
 
 var fs = require('fs');
 
