@@ -1,6 +1,6 @@
 var input1 = process.argv[2].toLowerCase();
 
-var fs = to require the fs????
+var fs = require('fs');
 
 if (input1 === "basic") {
 
@@ -8,12 +8,12 @@ if (input1 === "basic") {
 	basic();
 
 
-} else if (input1 ) {
+} else if (input1 === "cloze") {
 
 	var cloze = require("./Cloze");
 	cloze();
 
 } else {
 
-	console.log("The app doesn't do this!");
+	console.log("This is not a function of this app!");
 }
