@@ -1,6 +1,6 @@
 var fs = require("fs");
 var inquirer = require("inquirer");
-var input2 = process.argv[3].toLowerCase();
+var input2 = process.argv[3];
 var input3 = process.argv[4];
 var input4 = process.argv[5];
 
